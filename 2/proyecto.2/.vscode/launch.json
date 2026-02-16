@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SistemadeventaApplication",
+            "request": "launch",
+            "mainClass": "sistemaventa.SistemadeventaApplication",
+            "projectName": "sistemadeventa"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SistemadeventaApplication<sistemadeventa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "sistemaventa.sistemadeventa.SistemadeventaApplication",
+            "projectName": "sistemadeventa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
